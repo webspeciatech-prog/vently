@@ -1,0 +1,18 @@
+﻿src/app/(marketing)/page1/page.tsx(7,28): error TS2307: Cannot find module '@/components/v2/TrustSymbols' or its corresponding type declarations.
+src/app/(marketing)/page1/page.tsx(10,19): error TS2307: Cannot find module '@/components/v2/FAQ' or its corresponding type declarations.
+src/app/(marketing)/page2/page.tsx(7,28): error TS2307: Cannot find module '@/components/v2/TrustSymbols' or its corresponding type declarations.
+src/app/(marketing)/page2/page.tsx(10,19): error TS2307: Cannot find module '@/components/v2/FAQ' or its corresponding type declarations.
+src/app/(marketing)/page3/page.tsx(7,28): error TS2307: Cannot find module '@/components/v2/TrustSymbols' or its corresponding type declarations.
+src/app/(marketing)/page3/page.tsx(10,19): error TS2307: Cannot find module '@/components/v2/FAQ' or its corresponding type declarations.
+src/app/(marketing)/page4/page.tsx(7,28): error TS2307: Cannot find module '@/components/v2/TrustSymbols' or its corresponding type declarations.
+src/app/(marketing)/page4/page.tsx(10,19): error TS2307: Cannot find module '@/components/v2/FAQ' or its corresponding type declarations.
+src/app/(marketing)/page5/page.tsx(7,28): error TS2307: Cannot find module '@/components/v2/TrustSymbols' or its corresponding type declarations.
+src/app/(marketing)/page5/page.tsx(10,19): error TS2307: Cannot find module '@/components/v2/FAQ' or its corresponding type declarations.
+src/app/page.tsx(7,28): error TS2307: Cannot find module '@/components/v2/TrustSymbols' or its corresponding type declarations.
+src/app/page.tsx(10,19): error TS2307: Cannot find module '@/components/v2/FAQ' or its corresponding type declarations.
+src/components/MainPage.tsx(2,29): error TS2307: Cannot find module '@/components/PageTemplate' or its corresponding type declarations.
+src/components/UnifiedLanding.tsx(7,19): error TS2307: Cannot find module '@/components/v2/FAQ' or its corresponding type declarations.
+src/components/UnifiedLanding.tsx(27,8): error TS2322: Type 'unknown' is not assignable to type 'IntrinsicAttributes'.
+src/components/UnifiedLanding.tsx(27,24): error TS2698: Spread types may only be created from object types.
+src/components/UnifiedLanding.tsx(29,8): error TS2559: Type '{ reviews: any[]; }' has no properties in common with type 'IntrinsicAttributes'.
+src/components/UnifiedLanding.tsx(32,8): error TS2740: Type '{}' is missing the following properties from type 'FooterProps': logo, tagline, socials, columns, and 6 more.

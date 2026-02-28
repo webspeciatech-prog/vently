@@ -1,0 +1,10 @@
+﻿.next/dev/types/routes.d.ts(61,1): error TS1434: Unexpected keyword or identifier.
+.next/dev/types/routes.d.ts(61,3): error TS1128: Declaration or statement expected.
+.next/dev/types/routes.d.ts(61,4): error TS1109: Expression expected.
+.next/dev/types/routes.d.ts(62,13): error TS1005: ';' expected.
+.next/dev/types/routes.d.ts(63,3): error TS1128: Declaration or statement expected.
+.next/dev/types/routes.d.ts(63,5): error TS1109: Expression expected.
+.next/dev/types/routes.d.ts(66,1): error TS1128: Declaration or statement expected.
+.next/dev/types/validator.ts(89,1): error TS1161: Unterminated regular expression literal.
+.next/dev/types/validator.ts(89,10): error TS1005: ';' expected.
+.next/dev/types/validator.ts(93,1): error TS1128: Declaration or statement expected.
